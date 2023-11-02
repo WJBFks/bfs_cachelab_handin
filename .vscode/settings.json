@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cstdbool": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "signal.h": "c",
+        "vector": "cpp"
+    },
+}

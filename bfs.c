@@ -36,7 +36,7 @@ int main(int argc, char* argv[]) {
 
 
     /****************修改路径*******************/
-    load_csr("./XXXX.txt");
+    load_csr("./data/graph-128-csr.txt");
     /******************************************/
 
 
